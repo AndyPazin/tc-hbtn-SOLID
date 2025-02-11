@@ -9,7 +9,7 @@ public class UserModel { // Nome da classe corrigido para Usuario
     public int[] fetchUsers() { return [];}
 
     public int[] allUsers() {return [];}
-    public int[] GetUsers() {return [];}
+    public int[] getUsers() {return [];}
 
 
 }
