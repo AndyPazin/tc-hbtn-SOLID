@@ -6,7 +6,7 @@ public class Comments {
     public Owner getTestcaseOwner(Testcase testcase){};
 
 
-
+    // este método publica resultados com base na data
     public Hours getHoursInQuarter(){};
 
 
