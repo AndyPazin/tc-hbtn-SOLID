@@ -6,7 +6,7 @@ public class Comments {
     public Owner getTestcaseOwner(Testcase testcase){};
 
 
-    // este método publica resultados com base na data
+
     public Hours getHoursInQuarter(){};
 
 
@@ -17,12 +17,12 @@ public class Comments {
     }
 
 
-    /**
-     * <p> this method publishes results based on date
+   /**
+     * <p> este método publica resultados com base na data
      * </p>
-     * @param date date from when results should be published
-     * @return List of Result entities
-     * @since 16.0
+     * @param data data a partir da qual os resultados devem ser publicados
+     * @retornar Lista de entidades de resultado
+     * @desde 16.0
      */
     public List<Result> publishResults(Date date) {
         // some business logic here
