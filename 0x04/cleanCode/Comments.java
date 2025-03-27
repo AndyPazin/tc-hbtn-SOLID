@@ -1,7 +1,7 @@
 public class Comments {
 
     // Copyright (C) 2022 by CleanCode.
-    // Released under the terms of the GNU General Public License version 2 or later.
+    // Lançado sob os termos da GNU General Public License versão 2 ou posterior
 
     public Owner getTestcaseOwner(Testcase testcase){};
 
@@ -25,6 +25,6 @@ public class Comments {
      * @desde 16.0
      */
     public List<Result> publishResults(Date date) {
-        // some business logic here
+       // alguma lógica de negócios aqui
     }
 }
